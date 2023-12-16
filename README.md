@@ -5,7 +5,7 @@ A wrapper for the Basketball Head API. Includes added graphing feature!
 ## Installation
 
 ```bash
-$ pip install bballhead_cp
+$ pip install -i https://test.pypi.org/simple/ bballhead_cp
 ```
 
 ## Usage
