@@ -1,6 +1,6 @@
 # bballhead_cp
 
-A wrapper for the Basketball Head API. Included added graphing feature!
+A wrapper for the Basketball Head API. Includes added graphing feature!
 
 ## Installation
 
