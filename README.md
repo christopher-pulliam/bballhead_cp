@@ -10,7 +10,11 @@ $ pip install bballhead_cp
 
 ## Usage
 
-- TODO
+- Three functions: info, salary, and stats
+- Info returns basic player information, such as draft year and position, age, awards, etc.
+- Salary returns a line graph of how much a specified player was paid over each season
+- Stats returns a line graph for specified statistics over each season. For example, one could graph Kevin Durant's points per game.
+- See https://bballhead-cp.readthedocs.io/en/latest/index.html and the docstrings in src/bballhead_cp.py for more detailed information.
 
 ## Contributing
 
